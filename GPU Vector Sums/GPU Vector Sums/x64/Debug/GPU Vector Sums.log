@@ -1,0 +1,5 @@
+﻿  GPU Vector Sums.vcxproj -> D:\Documents\Visual Studio 2017\projects\GPU Vector Sums\x64\Debug\GPU Vector Sums.exe
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart*.dll" "D:\Documents\Visual Studio 2017\projects\GPU Vector Sums\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart32_90.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart64_90.dll
+          2 file(s) copied.
